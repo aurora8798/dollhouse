@@ -1,1 +1,1 @@
-https://github.com/aurora8798/dollhouse.git
+https://aurora8798.github.io/dollhouse/
